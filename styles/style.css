@@ -138,12 +138,12 @@ video {
   outline: none;
 }
 
-/* @-moz-document url-prefix() {
+@-moz-document url-prefix() {
   .search-form__label:focus-within {
     outline: 1px solid #fff;
     outline-offset: 1px;
   }
-} */
+}
 
 .search-form__textfield::placeholder {
   color: rgba(255, 255, 255, 0.7);
